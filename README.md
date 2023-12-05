@@ -11,3 +11,13 @@ Steps:
 1- Clonar repositório
 2- Instalar Dependências com comando # npm install
 3- Executar Testes
+
+
+
+Issue:
+Apontar as correções para as falhas no projeto e adicionar melhorias
+Como ponto de melhorias usei o Custom Commands ja que eram os mesmo testes e o beforeeach()
+
+Comandos Personalizados /support/commands.js
+
+
